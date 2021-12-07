@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Don-Hamill
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning how to code a news portal using python/django
+- 🌱 I’m currently learning how to code an AI that accurately guesses animals
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me dham156@wgu.edu
